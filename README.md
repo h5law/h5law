@@ -1,6 +1,6 @@
 <h3 align="center">A passionate low-level systems engineer</h3>
 
-- 🔭 I’m currently working on [norman](https://github.com/h5law/norman) as well as [Microbot](https://github.com/chsami/Microbot) for some fun too
+- 🔭 I’m currently working on [norman](https://github.com/h5law/norman) as well as [Microbot](https://github.com/h5law /Microbot) for some fun too
 
 - 🌱 I’m currently learning **OS Development**
 
