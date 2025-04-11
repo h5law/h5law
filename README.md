@@ -39,8 +39,9 @@
   <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-two-murex-36.vercel.app/api?username=h5law&show_icons=true&rank_icon=github&locale=en" alt="h5law" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats-two-murex-36.vercel.app/api?username=h5law&show_icons=true&rank_icon=github&locale=en&count_private=true" alt="h5law" />
+  <img align="right" src="https://github-readme-stats-two-murex-36.vercel.app/api/top-langs/?username=h5law&layout=compact&count_private=true" alt="h5law" />
+</p>
 <br>
-<p><img align="center" src="https://github-readme-stats-two-murex-36.vercel.app/api/top-langs/?username=h5law&layout=compact" alt="h5law" /></p>
-<br>
-<p><img align="centre" src="https://github-readme-stats-two-murex-36.vercel.app/api/wakatime?username=h5law" alt="h5law" /></p>
+<img align="left" src="https://github-readme-stats-two-murex-36.vercel.app/api/wakatime?username=h5law&count_private=true&layout=compact" alt="h5law" width="450"/>
