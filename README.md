@@ -1,8 +1,8 @@
 <h3 align="center">A passionate low-level systems engineer</h3>
 
 - 🔭 I’m currently working on:
-  - [norman](https://github.com/h5law/norman). Which is shaping into a zero-dependency C standard library (and eventually a standalone `libc` with an extended library)
-  - [wgpu](https://github.com/h5law/wgpu). Which is an exploration of native WebGPU code with the Dawn `webgpu.h` implementation
+  - [norman](https://github.com/h5law/norman). Which is a zero-dependency C99 `libc` implementation and extended standard library
+  - [wgpu](https://github.com/h5law/wgpu). Which is an exploration of native WebGPU code with the `dawn` and `wgpu` implementations
 
 - 🌱 I’m currently learning **OS Development** and general **Systems-Level Programming**
 
@@ -29,10 +29,3 @@
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats-two-murex-36.vercel.app/api?username=h5law&show_icons=true&rank_icon=github&locale=en&count_private=true" alt="h5law" />
-  <img align="right" src="https://github-readme-stats-two-murex-36.vercel.app/api/top-langs/?username=h5law&layout=compact&count_private=true" alt="h5law" />
-</p>
-<br>
-<img align="left" src="https://github-readme-stats-two-murex-36.vercel.app/api/wakatime?username=h5law&count_private=true&layout=compact" alt="h5law" width="450"/>
