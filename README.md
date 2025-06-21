@@ -1,10 +1,9 @@
 <h3 align="center">A passionate low-level systems engineer</h3>
 
 - 🔭 I’m currently working on:
-  - [norman](https://github.com/h5law/norman). Which is a zero-dependency C99 `libc` implementation and extended standard library
-  - [wgpu](https://github.com/h5law/wgpu). Which is an exploration of native WebGPU code with the `dawn` and `wgpu` implementations
+  - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library built for the `rollo` kernel developed in the same fashion.
 
-- 🌱 I’m currently learning **OS Development** and general **Systems-Level Programming**
+- 🌱 I’m currently learning **OS and Kernel Development** and exploring in general **Systems-Level Programming**
 
 - 📝 I occasionally write articles on [https://h5law.com](https://h5law.com)
 
@@ -12,7 +11,7 @@
 
 - ⚡ Fun fact **I love reimplementing things from scratch without any dependencies**
 
-- 🔐 GPG Public [Key](https://h5law.com/key.txt)
+- 🔐 GPG Public [Keys](https://h5law.com/key.txt)
 
 
 <h3 align="left">Languages and Tools:</h3>
