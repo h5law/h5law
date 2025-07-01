@@ -1,7 +1,8 @@
 <h3 align="center">A passionate low-level systems engineer</h3>
 
 - 🔭 I’m currently working on:
-  - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library built for the `rollo` kernel developed in the same fashion.
+  - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library.
+  - [aion](https://github.com/h5law/aion). A from-scratch implementation of a custom operating system called `aion`. Still in early development.
 
 - 🌱 I’m currently learning **OS and Kernel Development** and exploring in general **Systems-Level Programming**
 
