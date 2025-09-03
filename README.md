@@ -23,6 +23,7 @@
   1. Writing CHIP-8 Emulator
   1. Multi-threaded IRC chat client
   1. Write a FUSE FS
+  1. A SSG in C using HTMX static pages rendered from markdown
   1. Write a Password Manager with 2FA code support
 
 - ❓ Something most people don't know about me? I'm actually the zodiac killer 😄
