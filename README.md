@@ -1,14 +1,29 @@
 <h3 align="center">A passionate low-level <strike>bug creator</strike> systems engineer</h3>
 
 - 💻 Currently working on:
-  - [aion](https://github.com/h5law/aion). A from-scratch implementation of a custom operating system called `aion`. Still in early development.
-  - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library. Made for the `aion` OS specifically.
+  - [aion](https://github.com/h5law/aion). A from-scratch implementation of a custom operating system called `aion`. Still in early development. (name not set in stone)
+  - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library. Made for the `aion` OS specifically. (name not set in stone)
   - [ndjin](https://github.com/h5law/ndjin). A chess engine (bot and game driver), as well as GUI client with 1v1 P2P multiplayer - written from scratch.
 
-- 💡 Project TODOs:
-  - Password manager with 2FA integration [in progress](https://github.com/h5law/word)
-  - Static site generator with markdown content parser and custom theming (replacement for [kevlar](https://github.com/Aadv1k/kevlar))
-  - IRC client with ncurses or termbox2 styled user interface
+- 💡 Project Pipeline
+  > NOTE: Projects are listed in no particular order
+
+  ### Ongoing Projects
+
+  1. UEFI Bootloader for kernel
+  1. Video mode drivers and text rendering for OS
+  1. Port libc implementation for x86 to match OS
+  1. Fix networking on chess multiplayer
+  1. Focus on and optimise the chess engine
+
+  ### Future Projects
+
+  1. Implementing a Key-Value store DB
+  1. Reimplement sqlite
+  1. Writing CHIP-8 Emulator
+  1. Multi-threaded IRC chat client
+  1. Write a FUSE FS
+  1. Write a Password Manager with 2FA code support
 
 - ❓ Something most people don't know about me? I'm actually the zodiac killer 😄
 
