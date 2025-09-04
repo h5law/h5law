@@ -4,7 +4,7 @@
   - [aion](https://github.com/h5law/aion). A from-scratch implementation of a custom operating system called `aion`. Still in early development. (name not set in stone)
   - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library. Made for the `aion` OS specifically. (name not set in stone)
   - [ndjin](https://github.com/h5law/ndjin). A chess engine (bot and game driver), as well as GUI client with 1v1 P2P multiplayer - written from scratch.
-  - [squawk](https://github.com/h5law/squawk). A rewrite of SQLite3 in Pure C with Zero dependencies, built completely from scratch. A big task but a lot of room for innovation and learning.
+  - [squawk](https://github.com/h5law/squawk). A rewrite of SQLite3 in Pure C with Zero dependencies, built completely from scratch. A big task but a lot of room for innovation and learning. Mainly focusing on an in-memory and persistent multithreaded B-Tree backed DB.
 
 - 💡 Project Pipeline
   > NOTE: Projects are listed in no particular order
@@ -26,6 +26,8 @@
   1. Write a FUSE FS
   1. A SSG in C using HTMX static pages rendered from markdown
   1. Write a Password Manager with 2FA code support - [squawk](https://github.com/h5law/squawk) for the DB
+  1. IRC server implementation
+  1. mpd spotify connect integration
 
 - ❓ Something most people don't know about me? I'm actually the zodiac killer 😄
 
