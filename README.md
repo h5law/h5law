@@ -1,12 +1,5 @@
 <h3 align="center">A passionate low-level <strike>bug creator</strike> systems engineer</h3>
 
-- 💻 Currently working on:
-  - [aion](https://github.com/h5law/aion). A from-scratch implementation of a custom operating system called `aion`. Still in early development. (name not set in stone)
-  - [norman](https://github.com/h5law/norman). A zero-dependency `libc` implementation and expanded C standard library. Made for the `aion` OS specifically. (name not set in stone)
-  - [ndjin](https://github.com/h5law/ndjin). A chess engine (bot and game driver), as well as GUI client with 1v1 P2P multiplayer - written from scratch.
-  - [squawk](https://github.com/h5law/squawk). A rewrite of SQLite3's backend B-Tree based database, in Pure C with zero dependencies. Built completely from scratch. A big task but a lot of room for innovation and learning. Mainly focusing on an in-memory and persistent multithreaded B-Tree backed DB preferably using lock-free structures and algorithms.
-  - [FreeBSD](https://github.com/h5law/FreeBSD-src). **NOT A CORE TEAM DEVELOPER**. I am planning on and working on multiple core source tree contributions, features, patches and bug fixes
-  
 - 💡 Project Pipeline
   > NOTE: Projects are listed in no particular order
 
