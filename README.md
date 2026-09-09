@@ -1,28 +1,5 @@
 <h3 align="center">A passionate low-level <strike>bug creator</strike> systems engineer</h3>
 
-- 💡 Project Pipeline
-  > NOTE: Projects are listed in no particular order
-
-  ### Ongoing Projects
-
-  1. UEFI Bootloader for kernel
-  1. Video mode drivers and text rendering for OS
-  1. Port libc implementation for x86 to match OS
-  1. Fix networking on chess multiplayer
-  1. Focus on and optimise the chess engine
-
-  ### Future Projects
-
-  1. Implementing a Key-Value store DB
-  1. Reimplement sqlite - [squawk](https://github.com/h5law/squawk)
-  1. Writing CHIP-8 Emulator
-  1. Multi-threaded IRC chat client
-  1. Write a FUSE FS
-  1. A SSG in C using HTMX static pages rendered from markdown
-  1. Write a Password Manager with 2FA code support - [squawk](https://github.com/h5law/squawk) for the DB
-  1. IRC server implementation
-  1. mpd spotify connect integration
-
 - ❓ Something most people don't know about me? I'm actually the zodiac killer 😄
 
 - 🔐 [PGP Keys](https://h5law.com/key.txt)
